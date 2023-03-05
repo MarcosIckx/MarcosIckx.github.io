@@ -1,0 +1,4 @@
+markdown: kramdown
+date_format: "%d/%m/%Y"
+locale: fr-BE
+timezone: Europe/Brussels
