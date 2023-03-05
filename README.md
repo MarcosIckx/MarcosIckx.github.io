@@ -4,10 +4,10 @@ voici une courte présentation des projets
 
 ## BlogMarcosxNet
 
-le repository contenant tout ce qu´il faut pour https://blog.marcosx.net
+le repository contenant tout ce qu´il faut pour [https://blog.marcosx.net]
 
 ### PreviewMarcosxNet
-le repository contenant tout ce qu´il faut pour https://preview.marcosx.net
+le repository contenant tout ce qu´il faut pour [https://preview.marcosx.net]
 
 Ça permetrra 
 1. de faire des tests sur le site de preview au lieu de le faire sur le blog.
@@ -16,5 +16,5 @@ le repository contenant tout ce qu´il faut pour https://preview.marcosx.net
 
 ## PomHello
 
-le repository contenant tout ce qu´il faut pour https://www.pomhello.fr
+le repository contenant tout ce qu´il faut pour [https://www.pomhello.fr]
 
