@@ -1,3 +1,9 @@
+---
+layout: default
+title: mes projets github
+description: Breve description de mes projets GitHub.
+---
+
 # Bonjour à tous
 
 voici une courte présentation des projets
